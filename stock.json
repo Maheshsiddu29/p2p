@@ -1,0 +1,14 @@
+{
+    "boar": {
+        "quantity": 0,
+        "price": 0
+    },
+    "fish": {
+        "quantity": 0,
+        "price": 0
+    },
+    "salt": {
+        "quantity": 0,
+        "price": 0
+    }
+}
