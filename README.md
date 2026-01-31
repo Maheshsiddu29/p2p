@@ -76,5 +76,4 @@ python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. your_proto_fi
 
 👨‍💻👩‍💻 *Developed by Sai Mahesh Sure *
 
-💡 Idea based on COMPSCI 677 Course Labs:
 
